@@ -358,15 +358,15 @@ wheels = [
 
 [[package]]
 name = "html-to-markdown"
-version = "3.8.2"
+version = "3.9.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/ec/54/398243ac664378dd3184aa5e35245b6221b97ed29800076784f212f444bc/html_to_markdown-3.8.2.tar.gz", hash = "sha256:d29af0e649ad7e3d0a69de4731d4d50a23d30aef2eab5f09eee39e6efe33aab3", size = 5628335, upload-time = "2026-07-04T10:41:52.38Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/dd/08/6c9a5da37d32c02e15df8f711c2dc2a812d86ffc995343ef1c72762a7964/html_to_markdown-3.9.0.tar.gz", hash = "sha256:80d925c54f09e0961f63ede9f71ce0cbb4403f7997754bc5a48c3667a1f380a8", size = 5637181, upload-time = "2026-07-19T16:32:11.214Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/8e/e4/84690a91d2a719b827f6c5df547fb174faff50a1500c40e240bf7dc39e35/html_to_markdown-3.8.2-cp310-abi3-macosx_10_12_x86_64.whl", hash = "sha256:e80538460a48b0c396d998f08f6f12c374a189ca6ba48a2000a92a16f57c5ac4", size = 7340828, upload-time = "2026-07-04T10:41:44.363Z" },
-    { url = "https://files.pythonhosted.org/packages/b8/a0/0d5747647dcf78c875c32781383f1071bc286e64c9b75bd3e45c74a9813a/html_to_markdown-3.8.2-cp310-abi3-macosx_11_0_arm64.whl", hash = "sha256:eae509eb282872212f35a6e9a19bf9fa79793713452a4ca8197c12294c337010", size = 6875672, upload-time = "2026-07-04T10:41:46.017Z" },
-    { url = "https://files.pythonhosted.org/packages/17/96/bd2d50ecf36b76d8f0b3878fcb6edce545cd86d200ea0ca6a08abcb805c6/html_to_markdown-3.8.2-cp310-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:8cf8ab8eff0a948ab023ae1adac099166be50e14bad22537b76d2255f00811b7", size = 7114417, upload-time = "2026-07-04T10:41:47.488Z" },
-    { url = "https://files.pythonhosted.org/packages/36/db/ecd637617b9dd9aea8bc3d95da404e5622712902a967c5ef51f058826e7e/html_to_markdown-3.8.2-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:c0823e0679276960f7cb33b540cc4a02ac3864470abe7339ae72f718de117a44", size = 7565662, upload-time = "2026-07-04T10:41:49.16Z" },
-    { url = "https://files.pythonhosted.org/packages/1d/12/a24babf8df2be67c209dd204b2e8e2131f186a39645ebd4c9feb74f14932/html_to_markdown-3.8.2-cp310-abi3-win_amd64.whl", hash = "sha256:69b6df5a812c2f2b2d11ff813b66a8c59f741fbbfdb02a237fcf2c3b8b464071", size = 7562815, upload-time = "2026-07-04T10:41:50.816Z" },
+    { url = "https://files.pythonhosted.org/packages/88/52/03d3bdf5774f54f0ab070f1ece902888644eedba1d5a03061941a7a6be21/html_to_markdown-3.9.0-cp310-abi3-macosx_10_12_x86_64.whl", hash = "sha256:c4756875bfa5c32ff2607231ee5c86f1ce963fb5a08f18b16e2ca84bc899ce1d", size = 7363839, upload-time = "2026-07-19T16:32:03.715Z" },
+    { url = "https://files.pythonhosted.org/packages/e2/04/0e97202d10fd10fd09d56606fb0104962af7943f6cb8bbdedb92c8702c9d/html_to_markdown-3.9.0-cp310-abi3-macosx_11_0_arm64.whl", hash = "sha256:03d85858c47a6c3811d531f6141cb179c69858a11cc38794f59b7ec87fb8060b", size = 6901584, upload-time = "2026-07-19T16:32:05.53Z" },
+    { url = "https://files.pythonhosted.org/packages/dc/a9/75a12eb2ed8efdc47318e79b6506af52a690d9151b8b6f86ebce06625fc1/html_to_markdown-3.9.0-cp310-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:6766f03c158cc55073b36edfadb38e938f623b94f20fecb6501944bbaf95159f", size = 7131865, upload-time = "2026-07-19T16:32:07.009Z" },
+    { url = "https://files.pythonhosted.org/packages/64/53/baedce27cb0f0be6e31e0d9b8d953bb4f24496d2f68fe34cbf61a8bcb027/html_to_markdown-3.9.0-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:58c6cab1299dfad12ba06a33566581e88dc9b5e2bef45f2bd2a17b0cab21d281", size = 7587909, upload-time = "2026-07-19T16:32:08.437Z" },
+    { url = "https://files.pythonhosted.org/packages/ae/f7/81c8a47201c5b028bc0fd34f985afe978b13de382526f103510bb5b67c58/html_to_markdown-3.9.0-cp310-abi3-win_amd64.whl", hash = "sha256:a84bee9459a665767a4c6c754a6468c62c56d4e37447602f21a330f346d213e5", size = 7582279, upload-time = "2026-07-19T16:32:09.741Z" },
 ]
 
 [[package]]
@@ -1429,14 +1429,14 @@ wheels = [
 
 [[package]]
 name = "tqdm"
-version = "4.68.4"
+version = "4.69.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "colorama", marker = "sys_platform == 'win32'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ae/5f/57ff8b434839e70dab45601284ea413e947a63799891b7553e5960a793a8/tqdm-4.68.4.tar.gz", hash = "sha256:19829c9673638f2a0b8617da4cdcb927e831cd88bcfcb6e78d42a4d1af131520", size = 792418, upload-time = "2026-07-07T09:58:18.369Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/8c/69/40407dfc835517f058b603dbf37a6df094d8582b015a51eddc988febbcb7/tqdm-4.69.0.tar.gz", hash = "sha256:700c5e85dcd5f009dd6222588a29180a193a748247a5d855b4d67db93d79a53b", size = 792569, upload-time = "2026-07-17T18:09:06.2Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/22/2a/5e5e750890ada51017d18d0d4c30da696e5b5bd3180947729927628fc3cb/tqdm-4.68.4-py3-none-any.whl", hash = "sha256:5168118b2368f48c561afda8020fd79195b1bdb0bdf8086b88442c267a315dc2", size = 676612, upload-time = "2026-07-07T09:58:16.256Z" },
+    { url = "https://files.pythonhosted.org/packages/fe/21/99a0cdaf54eb35e77623c41b5a2c9472ee4404bba687052791fe2aba6773/tqdm-4.69.0-py3-none-any.whl", hash = "sha256:9979978912be667a6ef21fd5d8abf54e324e63d82f7f43c360792ebc2bc4e622", size = 676680, upload-time = "2026-07-17T18:09:04.172Z" },
 ]
 
 [[package]]
@@ -1495,7 +1495,7 @@ dependencies = [
 requires-dist = [
     { name = "chardet", specifier = ">=7.4.3" },
     { name = "fastembed-gpu", specifier = ">=0.8.0" },
-    { name = "html-to-markdown", specifier = ">=3.8.2" },
+    { name = "html-to-markdown", specifier = ">=3.9.0" },
     { name = "lxml", specifier = ">=6.1.1" },
     { name = "mdformat", specifier = ">=1.0.0" },
     { name = "ollama", specifier = ">=0.6.2" },
@@ -1504,7 +1504,7 @@ requires-dist = [
     { name = "qdrant-client", specifier = ">=1.18.0" },
     { name = "semchunk", specifier = ">=4.1.1" },
     { name = "sentence-transformers", specifier = ">=5.6.0" },
-    { name = "tqdm", specifier = ">=4.68.4" },
+    { name = "tqdm", specifier = ">=4.69.0" },
     { name = "types-lxml", specifier = ">=2026.2.16" },
     { name = "wcwidth", specifier = ">=0.8.2" },
 ]
